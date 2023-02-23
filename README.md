@@ -15,9 +15,4 @@
 <a href="https://discord.gg/https://discordapp.com/users/871296815897665537" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/871296815897665537" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"></p>
 
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-17lodhi&" alt="himanshu-17lodhi" /></p>
