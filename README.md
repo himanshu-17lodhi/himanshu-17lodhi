@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Himanshu Lodhi</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-17lodhi&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-17lodhi" /> </p>
 
-<!--
-**himanshu-17lodhi/himanshu-17lodhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Python programming**
 
-Here are some ideas to get you started:
+- 📫 How to reach me **lodhihimanshu17@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/lodhihimanshu17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lodhihimanshu17" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/himanshu-lodhi-405244236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/himanshu-lodhi-405244236" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/himanshulodhi.rajput.56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/himanshulodhi.rajput.56" height="30" width="40" /></a>
+<a href="https://instagram.com/himanshu_17lodhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himanshu_17lodhi" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@lodhihimanshu17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@lodhihimanshu17" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discordapp.com/users/871296815897665537" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/871296815897665537" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu-17lodhi&show_icons=true&locale=en&layout=compact" alt="himanshu-17lodhi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-17lodhi&" alt="himanshu-17lodhi" /></p>
