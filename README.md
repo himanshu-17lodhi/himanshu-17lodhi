@@ -19,5 +19,32 @@
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-17lodhi&layout=compact&theme=radical)
 
+# Himanshu's GitHub Profile
+
+Welcome to my GitHub profile! Here you'll find my projects and contributions.
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-17lodhi&layout=compact&theme=radical)
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himanshu-17lodhi&show_icons=true&theme=radical)
+
+## Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=himanshu-17lodhi&theme=radical)
+
+## Contribution Graph
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=himanshu-17lodhi&theme=radical)
+
+## Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=himanshu-17lodhi&theme=radical)
+
+## Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=himanshu-17lodhi&color=red)
 
 </p>
