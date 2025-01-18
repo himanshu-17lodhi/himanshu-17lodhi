@@ -47,4 +47,20 @@ Welcome to my GitHub profile! Here you'll find my projects and contributions.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=himanshu-17lodhi&color=red)
 
+
+## Contribution Snake
+
+![GitHub Contribution Snake](https://github.com/himanshu-17lodhi/himanshu-17lodhi/blob/output/github-contribution-grid-snake.svg)
+
+## Wakatime Stats
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=himanshu-17lodhi&theme=radical)
+
+## Most Used Languages with Percentage
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-17lodhi&layout=compact&langs_count=10&theme=radical)
+
+## GitHub Metrics
+
+![Metrics](https://metrics.lecoq.io/himanshu-17lodhi?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&config.timezone=Europe%2FLondon)
 </p>
