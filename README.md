@@ -51,7 +51,7 @@
 > "To secure a challenging role in a growth-oriented IT company where I can apply my skills in Python, AI/ML, and backend development to build impactful solutions, learn continuously, and contribute meaningfully to real-world projects."
 
 ---
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
