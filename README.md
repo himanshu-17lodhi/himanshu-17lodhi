@@ -7,12 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/himanshu-17lodhi">
-    <img src="https://komarev.com/ghpvc/?username=himanshu-17lodhi&style=flat-square&color=blue" alt="GitHub Profile Views" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" alt="Coding Gif">
 </p>
 
