@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu Lodhi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Aspiring+Backend+Developer;AI%2FML+Trainee+%7C+NLP+%7C+FastAPI+%7C+Streamlit;Pythonic+Problem+Solver+%7C+Open+Source+Contributor;Open+to+Internships+%26+Full-Time+Opportunities" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Backend%20Development-FastAPI%20%7C%20Django-0A66C2?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/AI%2FML-TensorFlow%20%7C%20NLP%20%7C%20Sklearn-orange?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20to%20Work-Remote%20%7C%20Hybrid-green?style=for-the-badge&logo=linkedin&logoColor=white" />
