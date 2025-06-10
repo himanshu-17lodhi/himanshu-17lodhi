@@ -104,13 +104,6 @@
 
 ---
 
-### [Portfolio Website](https://github.com/himanshu-17lodhi/portfolio)
-> A sleek, responsive portfolio showcasing my skills and projects.
-
-![Portfolio](https://github.com/himanshu-17lodhi/portfolio/raw/main/assets/demo.png)
-
----
-
 ### [Campus Recruitment Prediction](https://github.com/himanshu-17lodhi/Campus-Recruitment-Prediction)
 > ML-based prediction system to estimate campus placement likelihood.
 
