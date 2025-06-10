@@ -95,20 +95,6 @@
 
 ---
 
-## Featured Projects
-
-### [CVSync – AI Resume Screener](https://github.com/himanshu-17lodhi/CVSync)
-> NLP-powered resume screening tool with Django, role-based access, and admin panel.
-
-![CVSync Demo](https://github.com/himanshu-17lodhi/CVSync/raw/main/static/images/demo.gif)
-
----
-
-### [Campus Recruitment Prediction](https://github.com/himanshu-17lodhi/Campus-Recruitment-Prediction)
-> ML-based prediction system to estimate campus placement likelihood.
-
----
-
 ## GitHub Analytics
 
 <p align="center">
