@@ -42,8 +42,7 @@
 
 - Currently building **CVSync** – an AI-based resume screening system  
 - Diving deeper into **Advanced Django**, **FastAPI**, and **Cloud Deployment**  
-- Excited to collaborate on **open-source** and impactful **real-world projects**  
-- Fun fact: I convert ☕ + 💻 into intelligent, scalable apps!
+- Excited to collaborate on **open-source** and impactful **real-world projects** 
 
 ---
 
