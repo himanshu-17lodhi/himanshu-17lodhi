@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Backend%20Development-FastAPI%20%7C%20Django-0A66C2?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%2FML-TensorFlow%20%7C%20NLP%20%7C%20Sklearn-orange?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/AI%2FML-TensorFlow%20%7C%20NLP%20%7C%20Sklearn-orange?style=for-the-badge&logo=tensorflow&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/Open%20to%20Work-Remote%20%7C%20Hybrid-green?style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
 
