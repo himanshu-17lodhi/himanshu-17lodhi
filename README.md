@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Himanshu Lodhi</h1>
-<h3 align="center">Aspiring Backend Developer | API Architect | AI Integrator</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Backend%20Developer-Python%20%7C%20FastAPI%20%7C%20Next.js-blue?style=for-the-badge&logo=python&logoColor=white" />
