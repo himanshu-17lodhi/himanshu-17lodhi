@@ -14,7 +14,7 @@
 ![GitHub GIF](01.gif)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00FF57&center=true&vCenter=true&width=650&lines=Designing+Scalable+APIs+and+Real-Time+Backends;Integrating+AI+into+Modern+Web+Applications;Building+Reliable+and+Impactful+Solutions" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=red&center=true&vCenter=true&width=650&lines=Designing+Scalable+APIs+and+Real-Time+Backends;Integrating+AI+into+Modern+Web+Applications;Building+Reliable+and+Impactful+Solutions" alt="Typing SVG">
 </p>
 
 ---
