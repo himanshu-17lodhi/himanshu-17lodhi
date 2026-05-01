@@ -7,9 +7,11 @@
   <img src="https://img.shields.io/badge/Open%20to%20Work-Remote%20%7C%20Hybrid-green?style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" alt="Coding Gif">
-</p>
+</p> -->
+
+![GitHub GIF](01.gif)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00FF57&center=true&vCenter=true&width=650&lines=Designing+Scalable+APIs+and+Real-Time+Backends;Integrating+AI+into+Modern+Web+Applications;Building+Reliable+and+Impactful+Solutions" alt="Typing SVG">
