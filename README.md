@@ -20,7 +20,7 @@
 
 ##  About Me
 
-- 💼 Currently working as **Automation Engineer (Robotics Division)** at **Clearpack Group**
+- 💼 Currently working as **Automation Engineer ( _Robotics Division_ )** _@_ **Clearpack Group**
 - 🔭 Previously **Python Developer Intern** at **Codec Technologies**
 - ⚙️ Skilled in **FastAPI**, **Next.js**, **Django**, **LangChain**, **PostgreSQL**, **Supabase**, and **AWS**
 - 🌱 Currently exploring **real-time APIs**, **async backends**, and **AI-powered applications**
