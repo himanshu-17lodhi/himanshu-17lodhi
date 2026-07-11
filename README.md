@@ -20,11 +20,11 @@
 
 ##  About Me
 
-- 💼 Currently working as **Automation Engineer ( _Robotics Division_ )** _@_ **Clearpack Group**
-- 🔭 Previously **Python Developer Intern** at **Codec Technologies**
-- ⚙️ Skilled in **FastAPI**, **Next.js**, **Django**, **LangChain**, **PostgreSQL**, **Supabase**, and **AWS**
-- 🌱 Currently exploring **real-time APIs**, **async backends**, and **AI-powered applications**
-- 🤝 Open to collaborating on **innovative backend, AI integration, or open-source projects**
+- Currently working as **_Robotics Engineer_** _@_ **Clearpack Group**
+- Previously **Python Developer Intern** at **Codec Technologies**
+- Skilled in **FastAPI**, **Next.js**, **Django**, **LangChain**, **PostgreSQL**, **Supabase**, and **AWS**
+- Currently exploring **real-time APIs**, **async backends**, and **AI-powered applications**
+- Open to collaborating on **innovative backend, AI integration, or open-source projects**
 
 ---
 
@@ -32,7 +32,6 @@
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
@@ -43,12 +42,6 @@
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-### AI / Integration
-![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square&logo=openai&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Vector%20DB](https://img.shields.io/badge/-Vector%20Embeddings-9B59B6?style=flat-square)
-![Data%20Preprocessing](https://img.shields.io/badge/-Data%20Preprocessing-2ECC71?style=flat-square)
 
 ### Databases & Cloud
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
